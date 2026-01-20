@@ -24,12 +24,3 @@ Bei der Umsetzung wurde besonderer Wert auf professionelle Software-Prinzipien g
 • Modularisierung: Trennung von Programmlogik, Benutzerschnittstelle und Hilfsfunktionen zur besseren Wartbarkeit.
 • Datensicherheit & Validierung: Implementierung eines robusten Error-Handlings (try-except Blöcke in tool.py), um Fehlermeldungen bei falschen Dateneingaben zu verhindern.
 • User Experience: Dynamische Anpassung von Nachkommastellen und klare Benutzerführung in der Konsole.
-
-📂 Struktur📂 Struktur
-├── main.py          # Zentrales Hauptmenü und Programmsteuerung
-├── tool.py          # Hilfswerkzeuge für Validierung und Formatierung
-├── gehalt.py        # Modul Gehaltsrechnung
-├── angebot.py       # Modul Angebotsvergleich
-├── stueck.py        # Modul Deckungsbeitrag/KLR
-├── rechnen.py       # Mathematische Logik für den Taschenrechner
-└── main_tr.py       # Interface für den Taschenrechner
