@@ -1,6 +1,7 @@
 # 🚀 Kaufmännische Python-Suite (BK2) – Julian Binefeld
 
 Willkommen in meinem Repository! Hier habe ich kaufmännische Kernprozesse aus dem Berufskolleg 2 in eine automatisierte Python-Umgebung übersetzt. Dieses Projekt zeigt die Verbindung von betriebswirtschaftlicher Logik und moderner Softwareentwicklung.
+Dieses Programm wird durch die main.py Datei gestartet und ist das Hauptmenü. Damit das Programm läuft müssen Sie alle Dateien in einem Python-Editor aufgerufen haben!
 
 ## 🛠 Features der Tools
 
