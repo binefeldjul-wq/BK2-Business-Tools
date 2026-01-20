@@ -1,4 +1,3 @@
-
 📊 Kaufmännische BK2 Tools
 Digitalisierung kaufmännischer Prozesse mit Python
 Dieses Repository enthält eine modulare Werkzeugsammlung, die speziell zur Automatisierung und Validierung kaufmännischer Berechnungen im Rahmen des Berufskollegs 2 (BK2) entwickelt wurde. Das Ziel des Projekts war es, komplexe theoretische Kalkulationsschemata in eine funktionale, benutzerfreundliche Software zu überführen.
@@ -23,4 +22,4 @@ Das Toolkit umfasst vier Hauptmodule, die zentrale Bereiche der Betriebswirtscha
 Bei der Umsetzung wurde besonderer Wert auf professionelle Software-Prinzipien gelegt:
 • Modularisierung: Trennung von Programmlogik, Benutzerschnittstelle und Hilfsfunktionen zur besseren Wartbarkeit.
 • Datensicherheit & Validierung: Implementierung eines robusten Error-Handlings (try-except Blöcke in tool.py), um Fehlermeldungen bei falschen Dateneingaben zu verhindern.
-• User Experience: Dynamische Anpassung von Nachkommastellen und klare Benutzerführung in der Konsole.![IMG_1588](https://github.com/user-attachments/assets/c17aacb9-c51f-431e-a514-37494c71d7d7)
+• User Experience: Dynamische Anpassung von Nachkommastellen und klare Benutzerführung in der Konsole.![![IMG_1588](https://github.com/user-attachments/assets/4f6db4b3-9c92-48db-ac0a-aa55a6be4f54)
